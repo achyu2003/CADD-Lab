@@ -1,0 +1,7 @@
+Running: xsim.dir/ach44_behav/xsimk.exe -simmode gui -wdb ach44_behav.wdb -simrunnum 0 -socket 55106
+Design successfully loaded
+Design Loading Memory Usage: 7316 KB (Peak: 7316 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 7836 KB (Peak: 7836 KB)
+Simulation CPU Usage: 46 ms

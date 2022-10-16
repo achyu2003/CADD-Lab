@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\Users\ACHYUTH\Documents\PESU slidesnotes\ECE 3-sem\Computer-Aided Digtial Design\CADD-lab old\caddLab-master\lab_9\lab_9.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied

@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+                   0 a=11, b=10, p=110
+                  10 a= 8, b=10, p= 80
+                  20 a=15, b=15, p=225
+                  30 a=11, b= 0, p=  0
+                  40 a= 0, b=10, p=  0
+$finish called at time : 50 ns : File "C:/Users/ACHYUTH/Documents/PESU slidesnotes/ECE 3-sem/Computer-Aided Digtial Design/CADD-lab old/caddLab-master/lab_9/lab_9.srcs/sim_1/new/gy_654_tb.sv" Line 50

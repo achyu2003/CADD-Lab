@@ -1,0 +1,15 @@
+
+*** Running vivado
+    with args -log gy_654.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source gy_654.tcl
+
+
+
+****** Vivado v2022.1 (64-bit)
+  **** SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+  **** IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source gy_654.tcl -notrace
+create_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:11 . Memory (MB): peak = 1335.043 ; gain = 569.508
+ERROR: [Common 17-165] Too many positional options when parsing 'old/caddLab-master/lab_9/lab_9.srcs/utils_1/imports/synth_1/gy_654.dcp', please type 'read_checkpoint -help' for usage info.
+INFO: [Common 17-206] Exiting Vivado at Wed Oct 12 12:29:48 2022...
